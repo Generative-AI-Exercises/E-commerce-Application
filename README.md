@@ -1,2 +1,2 @@
-# BookStore_REST_API
-This is a RESTFULL API for a Book Store app.
+# E-commerce platform
+This is a e-commerce platform using Spring Boot and REST services
